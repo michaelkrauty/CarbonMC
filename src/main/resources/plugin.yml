@@ -1,0 +1,12 @@
+name: CarbonMC
+version: 1.0
+author: michaelkrauty
+main: me.michaelkrauty.CarbonMC.Main
+depend: [Vault]
+commands:
+  pvp:
+    description: Toggle PVP
+    usage: /pvp [time]
+  test:
+    description: test
+    usage: /test
